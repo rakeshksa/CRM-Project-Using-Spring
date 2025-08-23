@@ -1,0 +1,38 @@
+.header_design{
+    height: auto;
+    width: 100%;
+    float: left;
+    padding: 20px;
+}
+.main_page_banner{
+    height: 270px;
+    width: auto;
+    background-image: url('https://st.depositphotos.com/36924814/61254/i/450/depositphotos_612543668-stock-photo-abstract-line-blue-white-wave.jpg ');
+    /* opacity: .6; */
+} 
+.im{
+height: 270px;
+width: 490px;
+float: right;
+padding: 20px;
+margin-right: 20px;
+}
+.main_page_title{
+    float: left;
+    margin-top: 30px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 5px 5px 5px rgb(190, 190, 68);
+}
+.login_div_design{
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 0px 5px #cccccc ;
+}
+
+.error_message_design{
+	color: red;
+	font-size: 14px;
+	font-weight: bold;
+}
+
