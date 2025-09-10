@@ -14,6 +14,8 @@ Applied server-side Bean Validation and front-end input validation
 
 Optimized database queries using Spring Data JPA and custom repository methods
 
+
+
 Designed responsive UI using JSP, JSTL, Bootstrap 5, jQuery, HTML, and CSS
 
 Structured code following MVC architecture (controller, service, repository layers)
